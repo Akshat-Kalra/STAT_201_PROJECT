@@ -1,8 +1,8 @@
 # STAT_201_PROJECT
 
-# Statistical Inference on Whether Ticket Classes affect Survival on the RMS Titanic
+## Statistical Inference on Whether Ticket Classes affect Survival on the RMS Titanic
 
-# Data
+## Data
 * [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/data)
 
 ## Members: Akshat Kalra, Divesh Goyal, Luke Huang and Eubee Ham
